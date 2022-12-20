@@ -6,13 +6,13 @@
    },
   "inbounds": [
     {
-      "port": 443,
+      "port": "PORT",
       "protocol": "vless",
       "settings": {
         "decryption": "none",
         "clients": [
           {
-            "id": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "id": "UUID"
           }
         ]
       },
